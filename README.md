@@ -1,6 +1,6 @@
 # Classroom-Attendance-Tracker
 
-## openstack setup
+## Openstack setup
 - Create an ubuntu instance inside the virtual box or EC2 instance.
 https://releases.ubuntu.com/jammy/ubuntu-22.04.2-desktop-amd64.iso (Ubuntu 22.04 LTS) image
 - git clone the openstack repository available at
